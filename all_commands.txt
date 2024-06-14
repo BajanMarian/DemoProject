@@ -1,0 +1,10 @@
+git clone https://github.com/BajanMarian/DemoProject.git - cloneaza/downloadeaza local proiectul
+
+git status - ne zice pe ce branch suntem si ce modificari apar in fisiere
+
+git add <FILE> - pentru a trackui un fisier
+git add --all - pentru a trackui toate fisierele modificate
+
+git commit -m "mesajul meu"  - adauga un mesaj la commit
+
+git push
